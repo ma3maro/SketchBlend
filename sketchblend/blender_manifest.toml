@@ -1,0 +1,9 @@
+schema_version = "1.0.0"
+id = "sketchblend"
+version = "0.6.1"
+name = "SketchBlend"
+tagline = "Turn Blender scenes into illustration and pixel art"
+maintainer = "SketchBlend contributors"
+type = "add-on"
+blender_version_min = "5.3.0"
+license = ["SPDX:GPL-3.0-or-later"]
